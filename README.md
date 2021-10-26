@@ -1,6 +1,6 @@
 # Doubly Robust Thompson Sampling with Linear Payoffs
 
-Python3 based implementation of the paper "Doubly Robust Thompson Sampling with linear payoffs" under review at [NeurIPS2021].
+Python3 based implementation of the paper "Doubly Robust Thompson Sampling with linear payoffs".
 In this repository, you can generate Figures of the paper!
 
 ## Directory tree
